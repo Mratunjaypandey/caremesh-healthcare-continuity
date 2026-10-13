@@ -30,8 +30,7 @@ CareMesh focuses on **continuity, information organization, traceability, and co
 
 ## 🎬 CareMesh UI — animated previews
 
-The previews below use real CareMesh application screenshots, framed with subtle animated gradients, glowing outlines, and motion effects for a more engaging GitHub README. Patient demo identifiers are replaced with generic showcase values.
-
+The previews below use real CareMesh application screenshots.
 ### 1. Secure sign-in
 
 <p align="center">
